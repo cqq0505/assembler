@@ -1,0 +1,7 @@
+add r1,r2,r1
+and r2,r3,r4
+or r3,r4,r5
+xor r4,r5,r10
+sll r1,r2,5
+
+
